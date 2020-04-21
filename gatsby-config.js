@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/gatsby-portfolio",
   siteMetadata: {
     title: "Gatsby Starter - Stellar by HTML5 UP",
     author: "Hunter Chang",
