@@ -1,9 +1,9 @@
 module.exports = {
-  pathPrefix: "/gatsby-portfolio",
+  // pathPrefix: "/gatsby-portfolio",
   siteMetadata: {
-    title: "Gatsby Starter - Stellar by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Stellar by HTML5 UP"
+    title: "Daniel Trujillo - Personal Site",
+    author: "Daniel Trujillo",
+    description: "Personal website created using Gatsby"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
