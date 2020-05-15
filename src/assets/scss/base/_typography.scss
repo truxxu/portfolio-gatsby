@@ -11,6 +11,11 @@
 		color: _palette(fg);
 	}
 
+  .skillsCol {
+    columns: 20em 2;
+    text-align: center;
+  }
+
 	body, input, select, textarea {
 		font-family: _font(family);
 		font-size: 17pt;
