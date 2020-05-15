@@ -16,7 +16,7 @@ const Footer = props => (
       <h2>Contact info</h2>
       <dl className="alt">
         <dt>Location</dt>
-        <dd>Bogota &bull; Colombia</dd>
+        <dd>Bogota, Colombia</dd>
         <dt>Email</dt>
         <dd>
           <a

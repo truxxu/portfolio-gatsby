@@ -66,6 +66,10 @@
 			column-gap: _size(element-margin);
 			text-align: justify;
 		}
+
+    &.content_justify {
+      text-align: justify;
+    }
 	}
 
 	h1, h2, h3, h4, h5, h6 {

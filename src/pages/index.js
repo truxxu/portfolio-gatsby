@@ -147,7 +147,46 @@ class Index extends React.Component {
             </footer>
           </section>
 
-          <section id="cta" className="main special">
+          <section id="third" className="main special">
+            <header className="major">
+              <h2>Work Experience</h2>
+            </header>
+            <h3>Web UI Developer</h3>
+            <h4>Globant, Feb. 2020 - Presently</h4>
+            <p className="content_justify">
+              Part of a team of developers migrating the website for National
+              Geographic to Disney's in-house implementation of the React library.
+            </p>
+            <h3>Front-End Developer</h3>
+            <h4>Handmadetech, May 2019 - Presently</h4>
+            <p className="content_justify">
+              &#9702; Responsible of building a front end for mobile devices for a
+              location-based marketing platform. This React Native RESTful app
+              make use of Redux for state management, AsyncStorage for data
+              persistance and geolocation. <br/>
+              &#9702; Part of a development team building a platform that offers beauty
+              products and services. This React.js responsive web app includes
+              features such as user accounts, bookings and card payments.
+            </p>
+            <h3>Freelance Full-Stack Developer</h3>
+            <h4>Jobhoot, Dec. 2018 - Feb 2019</h4>
+            <p className="content_justify">
+              Built a platform that connect employers with people looking for
+              jobs, using a Rails back-end, PostgreSQL, ERB views and Bootstrap.
+            </p>
+            <h3>Co-Founder</h3>
+            <h4>HorMinka, Jan. 2016 - Nov 2017</h4>
+            <p className="content_justify">
+              Started a non-profit organisation to promote science and technology
+              as tools for social development. Developed IoT devices for home
+              automation on both hardware and software side. Collaborated in the
+              creation of apps to encourage civic engagement. Participated as
+              speaker in conferences for topics such as Information Security and
+              Free Software.
+            </p>
+          </section>
+
+          <section id="fourth" className="main special">
             <header className="major">
               <h2>Congue imperdiet</h2>
               <p>
