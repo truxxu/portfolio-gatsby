@@ -6,10 +6,9 @@ const Footer = props => (
     <section>
       <h2>Let's get in touch</h2>
       <p>
-        Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat
-        magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras
-        aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae
-        tincidunt odio.
+        Did I caught your attention? I'm always looking for the next big
+        challenge. Contact me and we can discuss how I can tend to your coding
+        needs.
       </p>
     </section>
     <section>
