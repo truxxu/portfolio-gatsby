@@ -154,46 +154,37 @@ class Index extends React.Component {
 
           <section id="fourth" className="main special">
             <header className="major">
-              <h2>Congue imperdiet</h2>
+              <h2>Portfolio</h2>
               <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
+                Over time I have taken part in a number of projects, as a hobby,
                 <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
+                as a freelancer and as a full-time developer.
               </p>
             </header>
             <footer className="major">
               <ul className="statistics">
                 <li className="style1">
                   <span className="icon fa-code-fork"></span>
-                  <strong>5,120</strong> Etiam
+                  <strong>1,035</strong> Contributions
                 </li>
                 <li className="style2">
                   <span className="icon fa-folder-open-o"></span>
-                  <strong>8,192</strong> Magna
-                </li>
-                <li className="style3">
-                  <span className="icon fa-signal"></span>
-                  <strong>2,048</strong> Tempus
+                  <strong>23</strong> Repositories
                 </li>
                 <li className="style4">
                   <span className="icon fa-laptop"></span>
-                  <strong>4,096</strong> Aliquam
-                </li>
-                <li className="style5">
-                  <span className="icon fa-diamond"></span>
-                  <strong>1,024</strong> Nullam
+                  <strong>Multiple</strong> Languages
                 </li>
               </ul>
               <ul className="actions">
                 <li>
-                  <Link to="/generic" className="button special">
-                    Get Started
-                  </Link>
-                </li>
-                <li>
-                  <Link to="/generic" className="button">
-                    Learn More
-                  </Link>
+                  <a
+                    href="https://github.com/truxxu"
+                    className="button"
+                    target="_blank"
+                  >
+                    Check out my Github profile
+                  </a>
                 </li>
               </ul>
             </footer>

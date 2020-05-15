@@ -58,7 +58,7 @@ const Footer = props => (
       </ul>
     </section>
     <p className="copyright">
-      {(new Date).getFullYear()}. Design: Truxxu & <a href="https://html5up.net">HTML5 UP</a>.
+      Design by Truxxu & <a href="https://html5up.net">HTML5 UP</a>. {(new Date).getFullYear()}
     </p>
   </footer>
 )
