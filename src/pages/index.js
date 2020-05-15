@@ -26,7 +26,7 @@ class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <Helmet title="Gatsby Starter - Stellar" />
+        <Helmet title="Daniel Trujillo - Personal Site" />
 
         <Header />
 
