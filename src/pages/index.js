@@ -70,7 +70,7 @@ class Index extends React.Component {
                 </p>
               </li>
               <li>
-                <span className="icon major style3 fa-leaf"></span>
+                <span className="icon major style4 fa-leaf"></span>
                 <h3>MSc in Energy Technology</h3>
                 <p>
                   Lappeenranta University of Technology, Lappeenranta, 2012-2015
