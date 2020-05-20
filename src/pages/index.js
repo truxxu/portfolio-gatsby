@@ -63,24 +63,25 @@ class Index extends React.Component {
             </header>
             <ul className="features">
               <li>
-                <span className="icon major style1 fa-cogs"></span>
-                <h3>BSc in Mechanical Engineering</h3>
+                <span className="icon major style5 fa-code"></span>
+                <h3>Full-Stack Web Development</h3>
                 <p>
-                  Universidad de América, Bogota, 2005-2010
+                  Le Wagon Coding Bootcamp, Berlin, Germany, 2018
                 </p>
               </li>
               <li>
                 <span className="icon major style4 fa-leaf"></span>
                 <h3>MSc in Energy Technology</h3>
                 <p>
-                  Lappeenranta University of Technology, Lappeenranta, 2012-2015
+                  Lappeenranta University of Technology, Lappeenranta, Finland,
+                  2012-2015
                 </p>
               </li>
               <li>
-                <span className="icon major style5 fa-code"></span>
-                <h3>Full-Stack Web Development</h3>
+                <span className="icon major style1 fa-cogs"></span>
+                <h3>BSc in Mechanical Engineering</h3>
                 <p>
-                  Le Wagon Coding Bootcamp, Berlin, 2018
+                  Universidad de América, Bogota, Colombia, 2005-2010
                 </p>
               </li>
             </ul>
