@@ -108,6 +108,12 @@ class Index extends React.Component {
               <p>&#9702; 2D and 3D CAD modelling</p>
               <p>&#9702; IoT</p>
               <p>&#9702; Arduino embedded systems design</p>
+            </div>
+            <br/>
+            <header className="major">
+              <h2>Languages</h2>
+            </header>
+            <div className="skillsCol">
               <p>&#9702; Spanish (Native)</p>
               <p>&#9702; English (High proficiency)</p>
               <p>&#9702; German (Basic)</p>
@@ -127,6 +133,8 @@ class Index extends React.Component {
             <h3>Front-End Developer</h3>
             <h4>Handmadetech, May 2019 - Presently</h4>
             <p className="content_justify">
+              &#9702; Ensure code follows good practices and meet quality
+              standards before being pushed to production. <br/>
               &#9702; Responsible of building a front end for mobile devices for a
               location-based marketing platform. This React Native RESTful app
               make use of Redux for state management, AsyncStorage for data
@@ -157,9 +165,7 @@ class Index extends React.Component {
             <header className="major">
               <h2>Portfolio</h2>
               <p>
-                Over time I have taken part in a number of projects, as a hobby,
-                <br />
-                as a freelancer and as a full-time developer.
+                Over time I have taken part in a number of projects, as a hobby, as a freelancer and as a full-time developer.
               </p>
             </header>
             <footer className="major">
