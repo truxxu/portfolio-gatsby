@@ -47,8 +47,8 @@ class Index extends React.Component {
                   Mechanical engineer with a Master’s degree in Energy
                   Technology. Always keen on learning new things. Passionate
                   about science and technology, experimenting and solving
-                  challenges. I want to keep creating sophisticated and
-                  beautifully designed apps.
+                  challenges. I enjoy crafting beautifully designed, high
+                  performance user interfaces.
                 </p>
               </div>
               <span className="image">
@@ -167,20 +167,6 @@ class Index extends React.Component {
               </p>
             </header>
             <footer className="major">
-              <ul className="statistics">
-                <li className="style1">
-                  <span className="icon fa-code-fork"></span>
-                  <strong>1,035</strong> Contributions
-                </li>
-                <li className="style2">
-                  <span className="icon fa-folder-open-o"></span>
-                  <strong>23</strong> Repositories
-                </li>
-                <li className="style4">
-                  <span className="icon fa-laptop"></span>
-                  <strong>Multiple</strong> Languages
-                </li>
-              </ul>
               <ul className="actions">
                 <li>
                   <a
@@ -189,6 +175,33 @@ class Index extends React.Component {
                     target="_blank"
                   >
                     Check out my Github profile
+                  </a>
+                </li>
+              </ul>
+              <ul className="statistics">
+                <li className="style1">
+                  <span className="icon fa-code-fork"></span>
+                  <strong>1,095</strong> Contributions in the last year
+                </li>
+                <li className="style2">
+                  <span className="icon fa-folder-open-o"></span>
+                  <strong>28</strong> Repositories
+                </li>
+                <li className="style4">
+                  <span className="icon fa-laptop"></span>
+                  <strong>Multiple</strong> Languages
+                </li>
+              </ul>
+              <p>I also have a blog where I talk about present projects and other
+              topics that I find interesting</p>
+              <ul className="actions">
+                <li>
+                  <a
+                    href="https://truxxu.github.io/blog/"
+                    className="button"
+                    target="_blank"
+                  >
+                    Visit my blog
                   </a>
                 </li>
               </ul>

@@ -6,7 +6,7 @@ const Footer = props => (
     <section>
       <h2>Let's get in touch</h2>
       <p>
-        Did I caught your attention? I'm always looking for the next big
+        Did I spark your interest? I'm always looking for the next big
         challenge. Contact me and we can discuss how I can tend to your coding
         needs.
       </p>
